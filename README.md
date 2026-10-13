@@ -49,6 +49,21 @@ Transforms synthetic order activity into an operational star schema, KPI reporti
 
 `Python` `SQL` `Operational Analytics` `Star Schema` `Anomaly Detection` `Automated Reporting` `8 Unit Tests`
 
+## Decision Science & Engineering Projects
+
+[Explore the six-project collection](https://github.com/kotha-sricharan/ks5846): tested implementations with reproducible synthetic data, documented assumptions, generated findings and interview walkthroughs.
+
+| Project | Focus |
+|---|---|
+| [Experiment Decision Lab](https://github.com/kotha-sricharan/ks5846/blob/main/EXPERIMENTATION.md) | Confidence intervals, sample-ratio checks, rollout guardrails |
+| [Customer Cohort Intelligence](https://github.com/kotha-sricharan/ks5846/blob/main/CUSTOMER_COHORTS.md) | SQL retention, signup denominators, observation-window censoring |
+| [Demand Forecast Benchmark](https://github.com/kotha-sricharan/ks5846/blob/main/DEMAND_FORECASTING.md) | Rolling validation, ridge regression, seasonal-naive comparison |
+| [Churn Risk Modeling](https://github.com/kotha-sricharan/ks5846/blob/main/CHURN_MODEL.md) | Train-only scaling, threshold selection, held-out evaluation |
+| [Automation Investment Case](https://github.com/kotha-sricharan/ks5846/blob/main/BUSINESS_CASE.md) | Scenario analysis, capacity-value NPV, pilot decision gates |
+| [Data Quality Service](https://github.com/kotha-sricharan/ks5846/blob/main/QUALITY_API.md) | Local HTTP API, validation rules, integration testing |
+
+These are independent, AI-assisted portfolio implementations. Synthetic outcomes are not employer achievements or production results.
+
 ## Analytical Workflow
 
 ```text
@@ -87,4 +102,5 @@ Every featured project is designed to be cloned and run locally without private 
 
 ## Explore My Work
 
-Start with the four featured projects above, or view [all repositories](https://github.com/kotha-sricharan?tab=repositories).
+Start with the featured analytics projects and the six-project collection above, or view [all repositories](https://github.com/kotha-sricharan?tab=repositories).
+
