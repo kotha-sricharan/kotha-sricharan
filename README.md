@@ -86,7 +86,7 @@ First-pass yield, rolled throughput yield, defect Pareto, X-bar/R control charts
 
 ### [Root Cause & Pareto Analyzer](https://github.com/kotha-sricharan/root-cause-pareto-analyzer)
 
-Defect-log Pareto analysis (80/20), fishbone (6M) category grouping, and a countermeasure action tracker with 5-Why notes and overdue flags. Python, pandas, matplotlib. Sample data: 343 synthetic incidents; vital few = top 6 codes, 87.1% of incidents.
+Defect-log Pareto analysis (80/20), fishbone (6M) category grouping, and a countermeasure action tracker with 5-Why notes and overdue flags. Python, pandas, matplotlib. Sample data: 343 synthetic incidents; vital few = top 6 codes, 87.2% of incidents.
 
 ### [OEE Production Line Monitor](https://github.com/kotha-sricharan/oee-production-line-monitor)
 
