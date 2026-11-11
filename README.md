@@ -93,6 +93,13 @@ Defect-log Pareto analysis (80/20), fishbone (6M) category grouping, and a count
 OEE (Availability × Performance × Quality) per line/shift/day from shift logs, downtime Pareto, and a shift-handover report — plus a SQLite pack (schema + 7 queries). Python, pandas, matplotlib, SQL. Sample data: 168 synthetic shift rows, overall OEE 77.9% (volume-weighted).
 
 
+## Independent Portfolio Projects — Machine Learning
+
+### [Payment Date Prediction](https://github.com/kotha-sricharan/payment-date-prediction)
+
+Product & Engineering Intern — HighRadius Internship Program | Jan–Apr 2022. FinTech invoice payment-date prediction: cleaned and validated 50,000 records, investigated missing values, duplicates and inconsistencies, and built a Python workflow that compares five regression models and exports predicted payment dates with aging buckets for 9,367 open invoices. Python, pandas, scikit-learn, XGBoost. Sample data is synthetic; the rebuild fixes a target-leakage issue in the original notebook by computing customer-level features from the training split only. A FinTech internship project — it supports data analysis, validation and automation, not hands-on machinery or production-line experience.
+
+
 ## Analytical Workflow
 
 ```text
