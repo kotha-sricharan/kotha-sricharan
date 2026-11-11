@@ -1,15 +1,24 @@
 # Kotha Sri Charan
 
+
 ### Data Analyst | SQL · Python · ETL · Data Quality · Business Intelligence
+
 
 I build reproducible analytics projects that turn imperfect operational data into trusted models, measurable KPIs, documented controls, and business-ready reporting. My portfolio emphasizes the full analytical workflow: requirements, synthetic data generation, validation, transformation, SQL modeling, reconciliation, analysis, automated reporting, and testing.
 
+
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/SQL-Analytics-336791?logo=postgresql&logoColor=white)
+
 ![SQLite](https://img.shields.io/badge/SQLite-Data%20Modeling-003B57?logo=sqlite&logoColor=white)
+
 ![ETL](https://img.shields.io/badge/ETL-Reproducible%20Pipelines-2E8B57)
+
 ![Data Quality](https://img.shields.io/badge/Data%20Quality-Audit--Ready-6A5ACD)
+
 ![Testing](https://img.shields.io/badge/Testing-Automated-0A7BBC)
+
 
 ## What I Work On
 
@@ -22,6 +31,7 @@ I build reproducible analytics projects that turn imperfect operational data int
 - Trend, variance, exception, and anomaly analysis
 - Unit-tested analytical logic and reproducible fixed-seed datasets
 - Lightweight, rule-based analytical narratives grounded only in calculated results
+
 
 ## Featured Analytics Portfolio
 
@@ -49,6 +59,7 @@ Transforms synthetic order activity into an operational star schema, KPI reporti
 
 `Python` `SQL` `Operational Analytics` `Star Schema` `Anomaly Detection` `Automated Reporting` `8 Unit Tests`
 
+
 ## Decision Science & Engineering Projects
 
 [Explore the six-project collection](https://github.com/kotha-sricharan/ks5846): tested implementations with reproducible synthetic data, documented assumptions, generated findings and interview walkthroughs.
@@ -63,6 +74,24 @@ Transforms synthetic order activity into an operational star schema, KPI reporti
 | [Data Quality Service](https://github.com/kotha-sricharan/ks5846/blob/main/QUALITY_API.md) | Local HTTP API, validation rules, integration testing |
 
 These are independent, AI-assisted portfolio implementations. Synthetic outcomes are not employer achievements or production results.
+
+
+## Independent Portfolio Projects — Manufacturing
+
+Manufacturing data projects built as independent portfolio work, shaped around a process-technician job description (Tesla NCM Process Technician, Buffalo NY, Req. 259251). All sample data is synthetic and clearly labeled in each repo; nothing here claims factory employment or production results at any company.
+
+### [Manufacturing Yield & SPC Dashboard](https://github.com/kotha-sricharan/manufacturing-yield-spc-dashboard)
+
+First-pass yield, rolled throughput yield, defect Pareto, X-bar/R control charts, and Cp/Cpk for a critical dimension — from raw production-line data to a Markdown summary report. Python, pandas, numpy, matplotlib. Sample data: 5,083 synthetic units, FPY 97.05%.
+
+### [Root Cause & Pareto Analyzer](https://github.com/kotha-sricharan/root-cause-pareto-analyzer)
+
+Defect-log Pareto analysis (80/20), fishbone (6M) category grouping, and a countermeasure action tracker with 5-Why notes and overdue flags. Python, pandas, matplotlib. Sample data: 343 synthetic incidents; vital few = top 6 codes, 87.1% of incidents.
+
+### [OEE Production Line Monitor](https://github.com/kotha-sricharan/oee-production-line-monitor)
+
+OEE (Availability × Performance × Quality) per line/shift/day from shift logs, downtime Pareto, and a shift-handover report — plus a SQLite pack (schema + 7 queries). Python, pandas, matplotlib, SQL. Sample data: 168 synthetic shift rows, overall OEE 77.9% (volume-weighted).
+
 
 ## Analytical Workflow
 
@@ -84,6 +113,7 @@ Dashboard-ready datasets and automated business reports
 Unit tests and reproducibility checks
 ```
 
+
 ## Portfolio Quality Standards
 
 Every featured project is designed to be cloned and run locally without private credentials. The repositories include:
@@ -96,11 +126,12 @@ Every featured project is designed to be cloned and run locally without private 
 - automated unit tests for important transformations, controls, KPIs, and reporting logic;
 - exact setup and execution commands in each README.
 
+
 ## Data and Professional Integrity
 
 **All highlighted repositories are independent portfolio implementations using synthetic or public-style data. They do not contain confidential employer data, PHI, private customer information, proprietary schemas, or employer source code.** Any organizations, people, accounts, transactions, claims, orders, and findings represented in these projects are fictional.
 
+
 ## Explore My Work
 
 Start with the featured analytics projects and the six-project collection above, or view [all repositories](https://github.com/kotha-sricharan?tab=repositories).
-
